@@ -17,13 +17,13 @@ display:none;
 }
 
 #wall .parent #tag-5.slick{
-display:none;
+display: none;
 }
 
 div#wall div.parent div:last-child div#tag-6{
-display:none;
+display: none;
 }
 
 div#wall div.parent div > #tag-7.slick{
-display:none;
+display: none;
 }
