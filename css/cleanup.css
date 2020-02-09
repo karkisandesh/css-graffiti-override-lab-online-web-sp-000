@@ -16,7 +16,7 @@ display:none;
 display:none;
 }
 
-#wall .parent #tag-5 .slick{
+#wall .parent #tag-5.slick{
 display:none;
 }
 
@@ -24,6 +24,6 @@ display:none;
 display:none;
 }
 
-#wall parent #tag-7 .slick{
+#wall parent #tag-7.slick{
 display:none;
 }
